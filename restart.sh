@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the script name
-SCRIPT_NAME="$0"
+SCRIPT_NAME="ShishTGbot.py"
 
 # Get the current hour
 current_hour=$(date +%H)
